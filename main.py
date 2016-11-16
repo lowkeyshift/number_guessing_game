@@ -1,10 +1,5 @@
 import random
 
-# limit guesses
-# too high message
-# too low message
-# play again?
-
 def game():
     # generate a random number between 1 and 10
     secret_num = random.randint(1,10)
